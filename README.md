@@ -1,1 +1,2 @@
 # deep_learning-classification-des-instruments
+The objective of this project is to develop a real-time musical instrument recognition system that will accurately identify the different instruments present in the sound signal. To achieve this, we designed a feature extraction system and built a labeled database containing 0.1 s audio sequences. We then trained and compared two convolutional neural network (CNN) and long-term memory (LSTM) models for audio classification. Finally, we developed a Streamlit application for real-time audio analysis.
