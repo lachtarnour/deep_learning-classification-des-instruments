@@ -22,6 +22,6 @@ Matplotlib
 
 ##result
 ### convolutional neural network
-![confusion matrix](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/6e74ac8ca5764587108c0d882d187915ddbd9435/images/cnn/confusion%20matrix.png)
-![conv epochs](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/6e74ac8ca5764587108c0d882d187915ddbd9435/images/cnn/conv%20epochs.png)
-![learning curve](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/863c6b4842ab70f29d6049ccad81da1e60fac9e5/images/cnn/learning%20curve%20.png)
+![](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/52024d1a06c88a26b0eb80557990195f3804e70a/cnn.png)
+### Long Short Term Memory
+![](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/a3823803b74362088d42078d5a8855621b34dffc/LSTM.png)
