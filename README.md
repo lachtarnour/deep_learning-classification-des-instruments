@@ -6,7 +6,7 @@ Freesound plus de 370 000 avec plus de 40 labels https://www.kaggle.com/c/freeso
 
 ![class distribution](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/0844fbaba73429148db5bc14f8435ddd5ad810d0/class%20distribution.png)
 
-##For use this repository, you need to install this requirements
+## For use this repository, you need to install this requirements
 python3.6
 IPython
 Numpy
@@ -20,7 +20,7 @@ os
 keras
 Matplotlib
 
-##result
+## Result
 ### convolutional neural network
 ![](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/52024d1a06c88a26b0eb80557990195f3804e70a/cnn.png)
 ### Long Short Term Memory
