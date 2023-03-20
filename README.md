@@ -22,6 +22,6 @@ Matplotlib
 
 ##result
 ### convolutional neural network
-![](images/cnn/confusion matrix.png)
-![](images/cnn/conv epochs.png)
-![](images/cnn/learning curve .png)
+![confusion matrix](images/cnn/confusion matrix.png)
+![conv epochs](images/cnn/conv epochs.png)
+![learning curve](images/cnn/learning curve .png)
