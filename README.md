@@ -5,3 +5,23 @@ The objective of this project is to develop a real-time musical instrument recog
 Freesound plus de 370 000 avec plus de 40 labels https://www.kaggle.com/c/freesound-audio-tagging
 
 ![class distribution](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/0844fbaba73429148db5bc14f8435ddd5ad810d0/class%20distribution.png)
+
+##For use this repository, you need to install this requirements
+python3.6
+IPython
+Numpy
+python_speech_features
+h5py
+Pandas
+Librosa
+Scikit-learn
+scipy.io
+os
+keras
+Matplotlib
+
+##result
+### convolutional neural network
+![](images/cnn/confusion matrix.png)
+![](images/cnn/conv epochs.png)
+![](images/cnn/learning curve .png)
