@@ -22,6 +22,6 @@ Matplotlib
 
 ##result
 ### convolutional neural network
-![confusion matrix](images/cnn/confusion matrix.png)
-![conv epochs](images/cnn/conv epochs.png)
-![learning curve](images/cnn/learning curve .png)
+![confusion matrix]([images/cnn/confusion matrix.png](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/6e74ac8ca5764587108c0d882d187915ddbd9435/images/cnn/confusion%20matrix.png))
+![conv epochs]([images/cnn/conv epochs.png](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/6e74ac8ca5764587108c0d882d187915ddbd9435/images/cnn/conv%20epochs.png))
+![learning curve](https://github.com/lachtarnour/deep_learning-classification-des-instruments/blob/863c6b4842ab70f29d6049ccad81da1e60fac9e5/images/cnn/learning%20curve%20.png)
